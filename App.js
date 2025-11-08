@@ -35,7 +35,7 @@ function App() {
             name="Cart"
             component={CartScreen}
             options={{ title: 'Shopping Cart' }}
-          />.
+          />
         </Stack.Navigator>
       </NavigationContainer>
     </Provider>
